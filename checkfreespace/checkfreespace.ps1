@@ -1,9 +1,6 @@
 # -----------------------------------------------------------------------------############################
 # Script Function: This sample Windows powershell script calculates free disk spaces
 # in multiple servers and emails copy of  csv report. 
-# Author: Joel Souza 
-# Date: 06/20/2015 
-# 
 # ----------------------------------------------------------------------------- ############################
 $erroractionpreference = "SilentlyContinue"
 
